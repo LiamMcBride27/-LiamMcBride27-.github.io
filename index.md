@@ -5,7 +5,8 @@ title: "Home"
 
 # My Data Analysis Project
 
-Welcome to my GitHub Pages site! This page will host my data sources, project ideas, and visualizations.
+## Data Science Project
+- [Project website](https://LiamMcBride27.github.io/final-project-EVS/) 
 
 ## Data Sources and Project Ideas
 
