@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# My Data Analysis Project
+# Liam McBride Data Science Work
 
 ## Data Science Project
 - [Washington State EV Analysis](https://LiamMcBride27.github.io/final-project-EVS/)
